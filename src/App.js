@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
       <h1>React - Git - GitHub</h1>
       <h2>React - Git - GitHub</h2>
+      <h3>React - Git - GitHub</h3>
      <TestGit/>
       </header>
     </div>
